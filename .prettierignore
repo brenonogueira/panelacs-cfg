@@ -1,0 +1,2 @@
+documentation/
+prettier --write . '!**/*.{js,jsx,vue}'
